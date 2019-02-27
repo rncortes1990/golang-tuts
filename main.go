@@ -15,6 +15,7 @@ func main(){
 	hand.print()
 	fmt.Println("--resto de mazo--")
 	deckRest.print()
+	fmt.Println(deckRest.toString())
 
 }
 
